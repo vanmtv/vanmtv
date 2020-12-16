@@ -1,6 +1,6 @@
 ### Hi 👋
 
-### 😄 I'm Vanessa Regina
+### I'm Vanessa Regina 😄
 
 Full Stack Developer Focused in Java | Angular 
 
