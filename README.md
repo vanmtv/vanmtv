@@ -3,9 +3,7 @@
 <!--
 **vanmtv/vanmtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 😄 I'm Vanessa Regina
-
-<hr>
+### 😄 I'm Vanessa Regina
 
 Full Stack Developer Focused in Java | Angular 
 
