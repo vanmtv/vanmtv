@@ -2,6 +2,8 @@
 
 ### I'm Vanessa Regina 😄
 
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=vanmtv.vanmtv" alt="Visitors"></p>
+
 Full Stack Developer Focused in Java | Angular 
 
 Bootcamp Genaration Brazil - Java Full Stack Developer 💻
