@@ -21,7 +21,8 @@ FATEC-SP - Analysis And Systems Development 💻
 * Vegan :seedling:	
 
 ## Github Stats :octocat:
-<img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vanmtv&show_icons=true&theme=dracula&layout=compact>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanmtv&layout=compact&theme=buefy)](https://github.com/vanmtv/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vanmtv&theme=buefy&show_icons=true&hide=issues)
 
 
