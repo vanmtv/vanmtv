@@ -24,7 +24,6 @@ FATEC-SP - Analysis And Systems Development 💻
 <center>
 <table>
   <tr>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=vanmtv&show_icons=true&theme=dracula></td>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vanmtv&show_icons=true&theme=dracula&layout=compact></td>
   </tr>  
 </table>
