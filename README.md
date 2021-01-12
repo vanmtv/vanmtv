@@ -15,3 +15,5 @@ FATEC-SP - Analysis And Systems Development 💻
 * Swimming :swimmer:
 * Read :books:
 * Gothic's Stuff :ghost:
+* Vegan :seedling:	
+
