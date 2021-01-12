@@ -8,8 +8,6 @@ Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
 FATEC-SP - Analysis And Systems Development 💻
 
-![enter image description here](https://i.imgur.com/rHlEdDq.gif)
-
 ### Contact :phone:	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-regina-silva/)](https://www.linkedin.com/in/vanessa-regina-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:rjs.vanessa@gmail.com)](mailto:rjs.vanessa@gmail.com)
@@ -31,3 +29,5 @@ FATEC-SP - Analysis And Systems Development 💻
   </tr>  
 </table>
 </center>
+
+![enter image description here](https://i.imgur.com/rHlEdDq.gif)
