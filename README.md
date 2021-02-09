@@ -15,6 +15,7 @@ FATEC-SP - Analysis And Systems Development 💻
 ### Hobbies :jack_o_lantern:
 
 * Watch movies and TV's series :movie_camera:
+* Learning lover :sparkles:
 * Swimming :swimmer:
 * Read :books:
 * Gothic's Stuff :ghost:
