@@ -27,4 +27,4 @@ FATEC-SP - Analysis And Systems Development 💻
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vanmtv&theme=buefy&show_icons=true&hide=issues)
 
 
-![enter image description here](https://i.imgur.com/GUQ1ZjQ.gifv)
+![enter image description here](https://i.imgur.com/GUQ1ZjQ.gif)
