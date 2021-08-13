@@ -2,7 +2,7 @@
 
 ### I'm Vanessa Regina 😄
 
-Full Stack Developer Focused in Java | Angular 
+Full Stack Developer Focused in Java | Angular | ReactJs
 
 Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
@@ -27,4 +27,4 @@ FATEC-SP - Analysis And Systems Development 💻
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vanmtv&theme=buefy&show_icons=true&hide=issues)
 
 
-![enter image description here](https://i.imgur.com/rHlEdDq.gif)
+![enter image description here](https://i.imgur.com/GUQ1ZjQ.gifv)
